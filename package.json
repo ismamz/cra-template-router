@@ -1,7 +1,7 @@
 {
   "name": "cra-template-router",
   "description": "A custom Create React App template that includes react-router.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "template.json",
   "keywords": [
     "react",
