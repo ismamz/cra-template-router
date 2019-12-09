@@ -1,8 +1,9 @@
 {
   "name": "cra-template-router",
   "description": "A custom Create React App template that includes react-router.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "template.json",
+  "author": "Ismael Martinez",
   "keywords": [
     "react",
     "react-router",
@@ -16,7 +17,7 @@
   },
   "license": "MIT",
   "engines": {
-    "node": ">=8"
+    "node": ">=8.10"
   },
   "bugs": {
     "url": "https://github.com/ismamz/cra-template-router/issues"
