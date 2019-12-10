@@ -1,6 +1,6 @@
 # cra-template-router
 
-A custom [Create React App](https://create-react-app.dev/) template that includes a basic [react-router](https://github.com/ReactTraining/react-router) implementation to kickstart your React projects.
+A custom [Create React App](https://create-react-app.dev/) template that includes a basic [react-router](https://github.com/ReactTraining/react-router) implementation to kick-start your React projects.
 
 It keeps exactly the same structure as the [default template](https://github.com/facebook/create-react-app/tree/master/packages/cra-template) and adds a basic setup for using routes.
 
